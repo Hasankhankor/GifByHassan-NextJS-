@@ -45,11 +45,11 @@ pnpm dev
 
 ## Screenshots
 
-![Screenshot 1](/Screenshot1.png)
+![Screenshot 1](public/Screenshot1.png)
 
-![Screenshot 2](/Screenshot2.png)
+![Screenshot 2](public/Screenshot2.png)
 
-![Screenshot 3](/Screenshot3.png)
+![Screenshot 3](public/Screenshot3.png)
 
 ## License
 
